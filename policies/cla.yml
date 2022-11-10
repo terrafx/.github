@@ -9,3 +9,4 @@ configuration:
       minimalChangeRequired:
          files: 1
          codeLines: 1
+      checkSummary: This check verifies that the author has agreed to a CLA with the .NET Foundation.
